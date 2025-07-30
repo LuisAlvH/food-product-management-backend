@@ -38,7 +38,7 @@ A continuación se muestra el diseño de la base de datos utilizado por el siste
 ## 📦 Colección Postman
 
 
-    [📥 Descargar colección](./docs/RestaSP.postman_collection.json)
+  [📥 Descargar colección](./docs/RestaSP.postman_collection.json)
 
 <br>
 <br>
