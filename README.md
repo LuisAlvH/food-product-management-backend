@@ -32,7 +32,7 @@ Ofrece herramientas intuitivas para registrar productos, crear promociones perso
 ## 🗃️ Diagrama Entidad-Relación
 
 A continuación se muestra el diseño de la base de datos utilizado por el sistema:
-  ![Diagrama Entidad-Relación](./docs/der.png)
+  ![Diagrama Entidad-Relación](./docs/img/der.png)
   
 ## 📦 Colección Postman
 
